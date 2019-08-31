@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcPhone", "mvcPhone\mvcPhone.csproj", "{91E1FA72-CD2D-4F0E-BC87-E23D803774E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPhone", "apiPhone\apiPhone.csproj", "{326FE405-E953-4447-841E-8CD121B5CE85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{91E1FA72-CD2D-4F0E-BC87-E23D803774E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E1FA72-CD2D-4F0E-BC87-E23D803774E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91E1FA72-CD2D-4F0E-BC87-E23D803774E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326FE405-E953-4447-841E-8CD121B5CE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326FE405-E953-4447-841E-8CD121B5CE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326FE405-E953-4447-841E-8CD121B5CE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326FE405-E953-4447-841E-8CD121B5CE85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
